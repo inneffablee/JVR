@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/cl.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/es.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/Plex/es.xml,https://i.mjh.nz/Plex/mx.xml,https://i.mjh.nz/Plex/us.xml,
-https://i.mjh.nz/SamsungTVPlus/es.xml,https://i.mjh.nz/SamsungTVPlus/us.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/cl.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/es.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/Plex/mx.xml,https://i.mjh.nz/Plex/es.xml,https://i.mjh.nz/Plex/us.xml,https://i.mjh.nz/SamsungTVPlus/es.xml,https://i.mjh.nz/SamsungTVPlus/us.xml"
+
 
 #EXTINF:-1 group-title="---JVR---" tvg-logo="https://imgur.com/TDdU4Hi.jpg",001 Alerce
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
